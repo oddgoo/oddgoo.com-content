@@ -1,3 +1,4 @@
-baseurl = "https://main-oddgoo.c9users.io/"
+baseurl = "https://oddgoo.com/"
 languageCode = "en-us"
 title = "oddgoo"
+paginate = 20
